@@ -1,1 +1,1 @@
-https://chenkl1995.github.com/cklblog/
+http://chenkl1995.github.io/cklblog/
